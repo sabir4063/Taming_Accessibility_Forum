@@ -1,0 +1,8 @@
+cd C:\Users\Sabir Ismail\Google Drive\SBU\Fall 18\Dialog Acts\Query Search Engine
+set FLASK_APP=query.py
+python -m flask run --port 5001
+
+
+cd C:\Users\Sabir Ismail\Google Drive\SBU\Fall 18\Dialog Acts\Query Search Engine - JAWS
+set FLASK_APP=query.py
+python -m flask run --port 5001

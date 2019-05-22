@@ -1,0 +1,961 @@
+name,new name,category,len,color
+access8math,access8math,Addon,11,3
+audio theme,audio theme,Addon,11,3
+brailleextender,brailleextender,Addon,15,3
+clipspeak,clipspeak,Addon,9,3
+crash hero,crash hero,Addon,10,3
+dictation bridge,dictation bridge,Addon,16,3
+dictation bridge ,dictation bridge,Addon,17,3
+dictationbridge,dictation bridge,Addon,15,3
+dropbox,dropbox,Addon,7,3
+enhanced aria,enhanced aria,Addon,13,3
+extendedwinamp,extendedwinamp,Addon,14,3
+golden curser,golden cursor,Addon,13,3
+golden cursor,golden cursor,Addon,13,3
+goldencurser,golden cursor,Addon,12,3
+goldencursor,golden cursor,Addon,12,3
+gold wave,goldwave,Addon,9,3
+goldwave,goldwave,Addon,8,3
+indentnav,indentnav,Addon,9,3
+input lock,input lock,Addon,10,3
+mozilla apps enhancement,mozilla apps enhancement,Addon,24,3
+mp3directcut,mp3directcut,Addon,12,3
+nvda remote,nvda remote,Addon,11,3
+nvdaremote,nvda remote,Addon,10,3
+objpad,objpad,Addon,6,3
+objpad 1803,objpad,Addon,11,3
+objpad1803,objpad,Addon,10,3
+pad addon,objpad,Addon,9,3
+pad bug,objpad,Addon,7,3
+padaddon,objpad,Addon,8,3
+padbug,objpad,Addon,6,3
+resource monitor,resource monitor,Addon,16,3
+resource monitor 2017,resource monitor,Addon,21,3
+resourcemonitor,resource monitor,Addon,15,3
+resourcemonitor2017,resource monitor,Addon,19,3
+review coursor,review corsor,Addon,14,3
+review cursor,review corsor,Addon,13,3
+reviewcoursor,review corsor,Addon,13,3
+reviewcursor,review corsor,Addon,12,3
+review cursor copier,review cursor copier,Addon,20,3
+sentencenav,sentencenav,Addon,11,3
+softvoice,softvoice addon,Addon,15,3
+softvoice,softvoice addon,Addon,14,3
+sonos,sonos,Addon,5,3
+speak passwords,speak passwords,Addon,15,3
+speech history,speech history,Addon,14,3
+speech hub,speech hub,Addon,10,3
+speechhub,speech hub,Addon,9,3
+spl,spl studio,Addon,3,3
+spl studio,spl studio,Addon,10,3
+splstudio,spl studio,Addon,9,3
+Station playlist,spl studio,Addon,16,3
+Stationplaylist,spl studio,Addon,15,3
+StationPlaylist Studio,spl studio,Addon,22,3
+StationPlaylistStudio,spl studio,Addon,21,3
+svox pico,svox pico,Addon,9,3
+svoxpico,svox pico,Addon,8,3
+switch synth,switch synth,Addon,12,3
+systray list,systray list,Addon,12,3
+systraylist,systray list,Addon,11,3
+teamtalk classic,teamtalk classic,Addon,16,3
+text information,text information,Addon,16,3
+tone master,tone master,Addon,11,3
+vip mud,vipmud,Addon,7,3
+vipmud,vipmud,Addon,6,3
+virtual review,virtual review,Addon,14,3
+virtualreview,virtual review,Addon,13,3
+weather plus,weather plus,Addon,12,3
+weather plus 46,weather plus,Addon,15,3
+weather plus 47,weather plus,Addon,15,3
+weather plus4,weather plus,Addon,13,3
+weatherplus,weather plus,Addon,11,3
+weatherplus4,weather plus,Addon,12,3
+weatherplus46,weather plus,Addon,13,3
+weatherplus47,weather plus,Addon,13,3
+wp,weather plus,Addon,2,3
+windows app essential 1603,windows 10 app essentials,Addon,26,3
+windows apps,windows 10 app essentials,Addon,12,3
+windows essentials,windows 10 app essentials,Addon,18,3
+windowsappessential1603,windows 10 app essentials,Addon,23,3
+windowsapps,windows 10 app essentials,Addon,11,3
+windowsessentials,windows 10 app essentials,Addon,17,3
+audacity,audacity,Audio Processing Software,8,8
+audable,audible,Audio Processing Software,7,5
+cdex,cdex,Audio Processing Software,4,9
+kodi,kodi,Audio Processing Software,4,9
+lyricsgetter,lyricsgetter,Audio Processing Software,12,5
+plover,plover,Audio Processing Software,6,5
+reaper,reaper,Audio Processing Software,6,5
+reper,reaper,Audio Processing Software,5,5
+sibelius,sibelius,Audio Processing Software,8,4
+vso,vso downloder,Audio Processing Software,3,4
+webinaria,webinaria,Audio Processing Software,9,7
+actilino,actilino,Braille Device,8,3
+alva,alva,Braille Device,4,3
+apex braillenote,apex braillenote,Braille Device,16,3
+apexbraillenote,apex braillenote,Braille Device,15,3
+braille edge,braille edge,Braille Device,12,3
+brailleedge,braille edge,Braille Device,11,3
+braille note,braille note,Braille Device,12,3
+braillenote,braille note,Braille Device,11,3
+braille pen,braille pen,Braille Device,11,3
+braillepen,braille pen,Braille Device,10,3
+braille sense,braille sense,Braille Device,13,3
+braillesense,braille sense,Braille Device,12,3
+braille voyager,braille voyager,Braille Device,15,3
+braillevoyager,braille voyager,Braille Device,14,3
+braille,braille,Braille Device,14,3
+brltty,brltty,Braille Device,6,3
+hims,hims,Braille Device,4,3
+liblouis,liblouis,Braille Device,8,3
+optelec convertbox,optelec convertbox,Braille Device,18,3
+optelecconvertbox,optelec convertbox,Braille Device,17,3
+orbit 20,orbit reader,Braille Device,8,3
+orbit reader,orbit reader,Braille Device,12,3
+orbit20,orbit reader,Braille Device,7,3
+orbitreader,orbit reader,Braille Device,11,3
+perky duck,perky duck,Braille Device,10,3
+perkyduck,perky duck,Braille Device,9,3
+seika,seika notetaker,Braille Device,5,3
+vario ultra,vario ultra,Braille Device,11,3
+varioultra,vario ultra,Braille Device,10,3
+calc,calculator,Desktop Utility,4,6
+calculator,calculator,Desktop Utility,10,6
+calendar,calender,Desktop Utility,8,6
+calender,calender,Desktop Utility,8,6
+microsoft calculator,microsoft calculator,Desktop Utility,20,6
+microsoftcalculator,microsoft calculator,Desktop Utility,19,6
+windows 10 calculatore,microsoft calculator,Desktop Utility,22,6
+windows10calculatore,microsoft calculator,Desktop Utility,20,6
+ms onenote,microsoft onenote,Desktop Utility,10,6
+msonenote,microsoft onenote,Desktop Utility,9,6
+one note,microsoft onenote,Desktop Utility,8,6
+onenote,microsoft onenote,Desktop Utility,7,6
+microsoft powerpoint,microsoft powerpoint,Desktop Utility,20,9
+microsoftpowerpoint,microsoft powerpoint,Desktop Utility,19,9
+ms powerpoint,microsoft powerpoint,Desktop Utility,13,9
+mspowerpoint,microsoft powerpoint,Desktop Utility,12,9
+powerpoint,microsoft powerpoint,Desktop Utility,10,9
+pptx,microsoft powerpoint,Desktop Utility,4,9
+pons media,pontes media,Desktop Utility,10,2
+ponsmedia,pontes media,Desktop Utility,9,2
+pontes media,pontes media,Desktop Utility,12,2
+pontesmedia,pontes media,Desktop Utility,11,2
+registry fixing,registry fixing,Desktop Utility,15,3
+registryfixing,registry fixing,Desktop Utility,14,3
+roxio,roxio,Desktop Utility,5,7
+rumola,rumola,Desktop Utility,6,2
+task manager,taskmanager,Desktop Utility,12,9
+taskmanager,taskmanager,Desktop Utility,11,9
+uac,uac,Desktop Utility,3,5
+windows 10 app,windows 10 apps,Desktop Utility,14,5
+windows 10 app essestial add on,windows 10 apps,Desktop Utility,31,5
+wintenapps,windows 10 apps,Desktop Utility,10,5
+wintenapps 1703,windows 10 apps,Desktop Utility,15,5
+wintenapps 17062,windows 10 apps,Desktop Utility,16,5
+wintenapps 1803,windows 10 apps,Desktop Utility,15,5
+wintenapps1703,windows 10 apps,Desktop Utility,14,5
+wintenapps17062,windows 10 apps,Desktop Utility,15,5
+wintenapps1803,windows 10 apps,Desktop Utility,14,5
+wintwnapps,windows 10 apps,Desktop Utility,10,5
+wintwnapps 16111,windows 10 apps,Desktop Utility,16,5
+wintwnapps 1802,windows 10 apps,Desktop Utility,15,5
+wintwnapps16111,windows 10 apps,Desktop Utility,15,5
+wintwnapps1802,windows 10 apps,Desktop Utility,14,5
+windows explorer,windows explorer,Desktop Utility,16,9
+windowsexplorer,windows explorer,Desktop Utility,15,9
+winrar,winrar,Desktop Utility,6,9
+workspace,workspace,Desktop Utility,9,7
+access bridge,access bridge,Developer Tools,13,6
+accessbridge,access bridge,Developer Tools,12,6
+cygwin,cygwin,Developer Tools,6,7
+eclipse,eclipse,Developer Tools,7,9
+git hub,github,Developer Tools,7,9
+github,github,Developer Tools,6,9
+java,java,Developer Tools,4,9
+access bridge,java access bridge,Developer Tools,11,6
+accessbridge,java access bridge,Developer Tools,10,6
+java access,java access bridge,Developer Tools,11,6
+java access bridge,java access bridge,Developer Tools,17,6
+javaaccess,java access bridge,Developer Tools,10,6
+javaaccessbridge,java access bridge,Developer Tools,15,6
+java script,java script,Developer Tools,11,7
+javascript,java script,Developer Tools,10,7
+macro,macro,Developer Tools,5,7
+matlab,matlab,Developer Tools,6,9
+msaa,msaa,Developer Tools,4,1
+mysql,mysql server,Developer Tools,5,8
+mysql server,mysql server,Developer Tools,12,8
+mysqlserver,mysql server,Developer Tools,11,8
+oracle,oracle,Developer Tools,6,8
+powershell,powershell,Developer Tools,10,8
+putty,putty,Developer Tools,5,7
+pycharm,pycharm,Developer Tools,7,8
+python,python,Developer Tools,6,8
+rss,rss reader,Developer Tools,3,7
+rss reader,rss reader,Developer Tools,10,7
+rssreader,rss reader,Developer Tools,9,7
+shell,shell,Developer Tools,5,7
+silver light,silverlight,Developer Tools,12,7
+silverlight,silverlight,Developer Tools,11,7
+sonar,sonar,Developer Tools,5,7
+sonar7,sonar,Developer Tools,6,7
+ssh,ssh,Developer Tools,3,8
+tortoise svn,tortoisesvn,Developer Tools,12,7
+tortoisesvn,tortoisesvn,Developer Tools,11,7
+vba,vba,Developer Tools,3,7
+visual basic,visual basic,Developer Tools,12,8
+visualbasic,visual basic,Developer Tools,11,8
+visual c,visual c,Developer Tools,8,8
+visualc,visual c,Developer Tools,7,8
+visual studio,visual studio,Developer Tools,13,9
+visualstudio,visual studio,Developer Tools,12,9
+vmware,vmware,Developer Tools,6,7
+vm ware fusion,vmware fusion,Developer Tools,14,7
+vmwarefusion,vmware fusion,Developer Tools,12,7
+wamp,wamp,Developer Tools,4,7
+win32api,win32api,Developer Tools,8,7
+server 2003,windows server,Developer Tools,11,7
+server 2008,windows server,Developer Tools,11,7
+server2003,windows server,Developer Tools,10,7
+server2008,windows server,Developer Tools,10,7
+windows server,windows server,Developer Tools,14,7
+windowsserver,windows server,Developer Tools,13,7
+word press,wordpress,Developer Tools,10,8
+wordpress,wordpress,Developer Tools,9,8
+wxpython,wxpython,Developer Tools,8,7
+wxpython 4,wxpython,Developer Tools,10,7
+wxpython4,wxpython,Developer Tools,9,7
+xampp,xampp,Developer Tools,5,7
+alexa,alexa,Dictation and Voice Assistant,5,5
+alexa app,alexa,Dictation and Voice Assistant,9,5
+alexaapp,alexa,Dictation and Voice Assistant,8,5
+cortana,cortana,Dictation and Voice Assistant,7,5
+dragon,dragon,Dictation and Voice Assistant,6,5
+siri,siri,Dictation and Voice Assistant,4,5
+amazon,amazon,E-commerce sites,6,9
+bloomberg,bloomberg,E-commerce sites,9,9
+microsoft store,microsoft store,E-commerce sites,15,9
+microsoftstore,microsoft store,E-commerce sites,14,9
+ms strore,microsoft store,E-commerce sites,9,9
+msstrore,microsoft store,E-commerce sites,8,9
+pay pal,paypal,E-commerce sites,7,9
+paypal,paypal,E-commerce sites,6,9
+vanguard,vanguard,E-commerce sites,8,7
+walmart,walmart,E-commerce sites,7,9
+gmail,gmail,Email Client,5,9
+live,live mail,Email Client,4,9
+live mail,live mail,Email Client,9,9
+livemail,live mail,Email Client,8,9
+mailbird,mailbird,Email Client,8,7
+microsoft outlook,microsoft outlook,Email Client,17,6
+microsoftoutlook,microsoft outlook,Email Client,16,6
+ms outlook,microsoft outlook,Email Client,10,6
+ms outlook2010,microsoft outlook,Email Client,14,6
+msoutlook,microsoft outlook,Email Client,9,6
+msoutlook2010,microsoft outlook,Email Client,13,6
+oe,microsoft outlook,Email Client,2,6
+oe classic,microsoft outlook,Email Client,10,6
+oeclassic,microsoft outlook,Email Client,9,6
+outlook,microsoft outlook,Email Client,7,6
+outlook 2000,microsoft outlook,Email Client,12,6
+outlook 2003,microsoft outlook,Email Client,12,6
+outlook 2007,microsoft outlook,Email Client,12,6
+outlook 2010,microsoft outlook,Email Client,12,6
+outlook 2013,microsoft outlook,Email Client,12,6
+outlook 2016,microsoft outlook,Email Client,12,6
+outlook 2017,microsoft outlook,Email Client,12,6
+outlook 365,microsoft outlook,Email Client,11,6
+outlook2000,microsoft outlook,Email Client,11,6
+outlook2003,microsoft outlook,Email Client,11,6
+outlook2007,microsoft outlook,Email Client,11,6
+outlook2010,microsoft outlook,Email Client,11,6
+outlook2013,microsoft outlook,Email Client,11,6
+outlook2016,microsoft outlook,Email Client,11,6
+outlook2017,microsoft outlook,Email Client,11,6
+outlook365,microsoft outlook,Email Client,10,6
+windows mail,microsoft outlook,Email Client,12,6
+windows mail app,microsoft outlook,Email Client,16,6
+windowsmail,microsoft outlook,Email Client,11,6
+windowsmailapp,microsoft outlook,Email Client,14,6
+msn,msn,Email Client,3,7
+snail,snail,Email Client,5,4
+mozilla thunderbird,thunderbird,Email Client,19,3
+mozillathunderbird,thunderbird,Email Client,18,3
+thinderbird,thunderbird,Email Client,11,3
+thumb drive,thunderbird,Email Client,11,3
+thumbdrive,thunderbird,Email Client,10,3
+thunder bird,thunderbird,Email Client,12,3
+thunder bird 64 bit,thunderbird,Email Client,19,3
+thunderbird,thunderbird,Email Client,11,3
+thunderbird 45,thunderbird,Email Client,14,3
+thunderbird45,thunderbird,Email Client,13,3
+thunderbird64bit,thunderbird,Email Client,16,3
+yahoo mail,yahoo mail,Email Client,10,5
+yahoomail,yahoo mail,Email Client,9,5
+drop box,dropbox,File Sharing,8,5
+google drive,google drive,File Sharing,12,5
+googledrive,google drive,File Sharing,11,5
+open drive,open drive,File Sharing,10,5
+opendrive,open drive,File Sharing,9,5
+qbittorrent,qbittorrent,File Sharing,11,6
+resilio,resilio,File Sharing,7,4
+slack,slack,File Sharing,5,4
+torrent,torrent,File Sharing,7,8
+windows onedrive,windows one drive,File Sharing,16,5
+windowsonedrive,windows one drive,File Sharing,15,5
+blindfold,blindfold,Games,9,3
+dungeons,dungeons,Games,8,3
+3d printer,3d printing,Hardware,10,4
+3d printers,3d printing,Hardware,11,4
+3d printing,3d printing,Hardware,11,4
+3dprinting,3d printing,Hardware,10,4
+battery,battery,Hardware,7,7
+bluetooth,bluetooth,Hardware,9,7
+cd,cd,Hardware,2,7
+hard disk,hard disk,Hardware,9,7
+harddisc,hard disk,Hardware,8,7
+harddisk,hard disk,Hardware,8,7
+storage,storage,Hardware,7,7
+chatty,chatty,Messaging Application,6,7
+chatzilla,chatzilla,Messaging Application,9,4
+google hangouts,google hangouts,Messaging Application,15,9
+googlehangouts,google hangouts,Messaging Application,14,9
+miranda,miranda ng,Messaging Application,7,3
+skype,skype,Messaging Application,5,6
+skype 7,skype,Messaging Application,7,6
+skype 8,skype,Messaging Application,7,6
+skype app,skype,Messaging Application,9,6
+skype7,skype,Messaging Application,6,6
+skype8,skype,Messaging Application,6,6
+skypeapp,skype,Messaging Application,8,6
+skype classic,skype classic,Messaging Application,13,3
+skype uwp,skype uwp,Messaging Application,9,6
+skypeuwp,skype uwp,Messaging Application,8,6
+team speak,teamspeak,Messaging Application,10,5
+teamspeak,teamspeak,Messaging Application,9,5
+team talk,teamtalk,Messaging Application,9,2
+teamtalk,teamtalk,Messaging Application,8,2
+tt,teamtalk,Messaging Application,2,2
+viber,viber,Messaging Application,5,8
+whats app,whatsapp,Messaging Application,9,9
+whatsapp,whatsapp,Messaging Application,8,9
+whatsapp web,whatsapp web,Messaging Application,12,9
+whatsappweb,whatsapp web,Messaging Application,11,9
+wlm,windows live messanger,Messaging Application,3,8
+zello,zello,Messaging Application,5,4
+zoom,zoom,Messaging Application,4,2
+adobe air,adobe air,Miscellaneous Software,9,7
+adobeair,adobe air,Miscellaneous Software,8,7
+adobe dream viewer,adobe dream viewer,Miscellaneous Software,18,7
+adobedreamviewer,adobe dream viewer,Miscellaneous Software,16,7
+quicken,quicken,Miscellaneous Software,7,7
+ribbon disabler,ribbon disabler,Miscellaneous Software,15,1
+ribbon disabler 30,ribbon disabler,Miscellaneous Software,18,1
+ribbondisabler,ribbon disabler,Miscellaneous Software,14,1
+ribbondisabler v3,ribbon disabler,Miscellaneous Software,17,1
+ribbondisabler30,ribbon disabler,Miscellaneous Software,16,1
+ribbondisablerv3,ribbon disabler,Miscellaneous Software,16,1
+rumba,rumba,Miscellaneous Software,5,4
+adobe flash,flash player,Multimedia Player,11,9
+adobeflash,flash player,Multimedia Player,10,9
+flash player,flash player,Multimedia Player,12,9
+flashplayer,flash player,Multimedia Player,11,9
+gom player,gom player,Multimedia Player,10,9
+gomplayer,gom player,Multimedia Player,9,9
+nls player,nls player,Multimedia Player,9,3
+pot player,pot player,Multimedia Player,10,7
+potplayer,pot player,Multimedia Player,9,7
+power media player,power mediaplayer,Multimedia Player,18,8
+powermediaplayer,power mediaplayer,Multimedia Player,16,8
+qws,qws,Multimedia Player,3,3
+real player,real player,Multimedia Player,11,8
+realplayer,real player,Multimedia Player,10,8
+sm player,sm player,Multimedia Player,9,8
+smplayer,sm player,Multimedia Player,8,8
+spotify,spotify,Multimedia Player,7,7
+vlc_media_player,vlc media player,Multimedia Player,16,6
+vlc,vlc mediaplayer,Multimedia Player,3,6
+vlc media player,vlc mediaplayer,Multimedia Player,16,6
+vlc player app,vlc mediaplayer,Multimedia Player,14,6
+vlcmediaplayer,vlc mediaplayer,Multimedia Player,14,6
+vlcplayerapp,vlc mediaplayer,Multimedia Player,12,6
+win amp,winamp,Multimedia Player,7,6
+winamp,winamp,Multimedia Player,6,6
+winamp apps,winamp,Multimedia Player,11,6
+winampapps,winamp,Multimedia Player,10,6
+windows media,windows mediaplayer,Multimedia Player,13,7
+windows media player,windows mediaplayer,Multimedia Player,20,7
+windowsmedia,windows mediaplayer,Multimedia Player,12,7
+windowsmediaplayer,windows mediaplayer,Multimedia Player,18,7
+xamarin live player,xamarin live player,Multimedia Player,19,3
+apple music,apple music,Online Streaming,11,9
+applemusic,apple music,Online Streaming,10,9
+itunes,itunes,Online Streaming,6,6
+netflix,netflix,Online Streaming,7,9
+pandora,pandora,Online Streaming,7,5
+pluto tv,pluto tv,Online Streaming,8,4
+plutotv,pluto tv,Online Streaming,7,4
+podcast,podcast,Online Streaming,7,2
+podcatcher,podcast,Online Streaming,10,2
+podcatchers,podcast,Online Streaming,11,2
+podcats,podcast,Online Streaming,7,2
+qcast,qcast,Online Streaming,5,1
+readon tv,readon tv movie radio plyer,Online Streaming,9,3
+readontv,readon tv movie radio plyer,Online Streaming,8,3
+sirius,sirius xm,Online Streaming,6,4
+sirius xm,sirius xm,Online Streaming,9,4
+siriusxm,sirius xm,Online Streaming,8,4
+sling tv,sling tv,Online Streaming,8,8
+slingtv,sling tv,Online Streaming,7,8
+sound cloud,soundcloud,Online Streaming,11,9
+soundcloud,soundcloud,Online Streaming,10,9
+tapin radio,tapin radio,Online Streaming,11,1
+tapinradio,tapin radio,Online Streaming,10,1
+youtube,youtube,Online Streaming,7,6
+ubuntu,ubuntu,Operating System,6,9
+w10,windows 10,Operating System,3,6
+win 10,windows 10,Operating System,6,6
+win 10 mail app,windows 10,Operating System,15,6
+win ten,windows 10,Operating System,7,6
+win10,windows 10,Operating System,5,6
+win10 32 bit,windows 10,Operating System,12,6
+win10 apps,windows 10,Operating System,10,6
+win1032bit,windows 10,Operating System,10,6
+win10apps,windows 10,Operating System,9,6
+windo10,windows 10,Operating System,7,6
+windows 10,windows 10,Operating System,10,6
+windows 10 64 bit,windows 10,Operating System,17,6
+windows 10s,windows 10,Operating System,11,6
+windows ten,windows 10,Operating System,11,6
+windows10,windows 10,Operating System,9,6
+windows1064bit,windows 10,Operating System,14,6
+windows10app,windows 10,Operating System,12,6
+windows10appessestialaddon,windows 10,Operating System,26,6
+windows10s,windows 10,Operating System,10,6
+windowsten,windows 10,Operating System,10,6
+winten,windows 10,Operating System,6,6
+winten1803,windows 10,Operating System,10,6
+win 2000,windows 2000,Operating System,8,9
+win2000,windows 2000,Operating System,7,9
+windows 2000,windows 2000,Operating System,12,9
+windows2000,windows 2000,Operating System,11,9
+win 7,windows 7,Operating System,5,6
+win7,windows 7,Operating System,4,6
+windows 7,windows 7,Operating System,9,6
+windows 7 sp1,windows 7,Operating System,13,6
+windows seven,windows 7,Operating System,13,6
+windows7,windows 7,Operating System,8,6
+windows7sp1,windows 7,Operating System,11,6
+windowsseven,windows 7,Operating System,12,6
+win 8,windows 8,Operating System,5,9
+win8,windows 8,Operating System,4,9
+windows 8,windows 8,Operating System,9,9
+windows8,windows 8,Operating System,8,9
+windows 81,windows 81,Operating System,10,9
+windows81,windows 81,Operating System,9,9
+windows 98,windows 98,Operating System,10,9
+windows98,windows 98,Operating System,9,9
+windows core,windows core,Operating System,12,9
+windowscore,windows core,Operating System,11,9
+windows iot,windows iot,Operating System,11,9
+windowsiot,windows iot,Operating System,10,9
+vista,windows vista,Operating System,5,9
+windows vista,windows vista,Operating System,13,9
+windowsvista,windows vista,Operating System,12,9
+windows xp,windows xp,Operating System,10,6
+windowsxp,windows xp,Operating System,9,6
+xp,windows xp,Operating System,2,6
+xp 2002,windows xp,Operating System,7,6
+xp 2003,windows xp,Operating System,7,6
+xp 7,windows xp,Operating System,4,6
+xp 8,windows xp,Operating System,4,6
+xp sp2,windows xp,Operating System,6,6
+xp sp3,windows xp,Operating System,6,6
+xp2002,windows xp,Operating System,6,6
+xp2003,windows xp,Operating System,6,6
+xp7,windows xp,Operating System,3,6
+xp8,windows xp,Operating System,3,6
+xpsp2,windows xp,Operating System,5,6
+xpsp3,windows xp,Operating System,5,6
+service pack,windows xp service pack,Operating System,12,6
+servicepack,windows xp service pack,Operating System,11,6
+sp1,windows xp service pack,Operating System,3,6
+abbyy,abbyy finereader,Optical Character Recognizer OCR,5,3
+adobereaderdc,adobe reader,Optical Character Recognizer OCR,13,6
+balabolka,balabolka,Optical Character Recognizer OCR,9,3
+chrome reader,chrome reader,Optical Character Recognizer OCR,13,5
+chromereader,chrome reader,Optical Character Recognizer OCR,12,5
+codex,codex,Optical Character Recognizer OCR,5,3
+knfb,knfb reader,Optical Character Recognizer OCR,4,3
+knfb reader,knfb reader,Optical Character Recognizer OCR,11,3
+knfbreader,knfb reader,Optical Character Recognizer OCR,10,3
+kurzweil,Kurzweil,Optical Character Recognizer OCR,8,3
+omnipage,omnipage,Optical Character Recognizer OCR,8,3
+open book,openbook,Optical Character Recognizer OCR,9,3
+openbook,openbook,Optical Character Recognizer OCR,8,3
+blackboard,blackboard,Other Websites,10,7
+bugzilla,bugzilla,Other Websites,8,7
+convertbox,convertbox,Other Websites,10,7
+google,google,Other Websites,6,9
+google book,google book,Other Websites,11,7
+googlebook,google book,Other Websites,10,7
+google classroom,google classroom,Other Websites,16,7
+googleclassroom,google classroom,Other Websites,15,7
+google docs,google docs,Other Websites,11,9
+googledocs,google docs,Other Websites,10,9
+google tables,google tables,Other Websites,13,7
+googletables,google tables,Other Websites,12,7
+google translate,google translate,Other Websites,16,8
+googletranslate,google translate,Other Websites,15,8
+groupio,groupio,Other Websites,7,1
+ms support,microsoft support,Other Websites,10,8
+mssupport,microsoft support,Other Websites,9,8
+ninite,ninite,Other Websites,6,1
+salesforce,salesforce,Other Websites,10,7
+smashwords,smashwords,Other Websites,10,7
+sourceforge,sourceforge,Other Websites,11,9
+webaim,webaim,Other Websites,6,1
+wiki,wiki,Other Websites,4,6
+wikipedia,wikipedia,Other Websites,9,6
+yahoo,yahoo,Other Websites,5,7
+yahoo forecast,yahoo forecast,Other Websites,14,4
+yahooforecast,yahoo forecast,Other Websites,13,4
+acrobat,adobe reader,PDF and E-Book Reader,7,6
+acrobat dc,adobe reader,PDF and E-Book Reader,10,6
+acrobat reader dc,adobe reader,PDF and E-Book Reader,17,6
+adobe,adobe reader,PDF and E-Book Reader,5,6
+adobe acrobat,adobe reader,PDF and E-Book Reader,13,6
+adobe acrobat reader,adobe reader,PDF and E-Book Reader,20,6
+adobe dc,adobe reader,PDF and E-Book Reader,8,6
+adobe reader,adobe reader,PDF and E-Book Reader,12,6
+adobe reader dc,adobe reader,PDF and E-Book Reader,15,6
+adobeacrobat,adobe reader,PDF and E-Book Reader,12,6
+adobeacrobatreader,adobe reader,PDF and E-Book Reader,18,6
+adobereader,adobe reader,PDF and E-Book Reader,11,6
+dc reader,adobe reader,PDF and E-Book Reader,9,6
+primo pdf,primo,PDF and E-Book Reader,9,1
+primopdf,primo,PDF and E-Book Reader,8,1
+qread,qread,PDF and E-Book Reader,5,3
+sumatra,sumatra,PDF and E-Book Reader,7,2
+citrix,citrix,Remote Access,6,6
+citrix xenapp,citrix,Remote Access,13,6
+citrixxenapp,citrix,Remote Access,12,6
+lotus notes,lotus notes,Remote Access,11,4
+lotusnotes,lotus notes,Remote Access,10,4
+remote,remote server,Remote Access,6,7
+remote server,remote server,Remote Access,13,7
+remoteserver,remote server,Remote Access,12,7
+team viewer,team viewer,Remote Access,11,8
+teamviewer,team viewer,Remote Access,10,8
+terminal,terminal,Remote Access,8,7
+virtual machine,virtual machine,Remote Access,15,7
+virtualmachine,virtual machine,Remote Access,14,7
+vpn,vpn,Remote Access,3,8
+vpn software,vpn,Remote Access,12,8
+vpnsoftware,vpn,Remote Access,11,8
+jaws,jaws,Screen Readers and Magnifier,4,3
+nvda,nvda,Screen Readers and Magnifier,4,3
+nvda 20163,nvda,Screen Readers and Magnifier,10,3
+nvda 20171,nvda,Screen Readers and Magnifier,10,3
+nvda rc1,nvda,Screen Readers and Magnifier,8,3
+nvda20163,nvda,Screen Readers and Magnifier,9,3
+nvda20171,nvda,Screen Readers and Magnifier,9,3
+nvdarc1,nvda,Screen Readers and Magnifier,7,3
+serotek,serotek,Screen Readers and Magnifier,7,3
+voiceover,voiceover,Screen Readers and Magnifier,9,3
+webanywhere,webanywhere,Screen Readers and Magnifier,11,3
+window eye,window eyes,Screen Readers and Magnifier,10,3
+window eyes,window eyes,Screen Readers and Magnifier,11,3
+windoweyes,window eyes,Screen Readers and Magnifier,10,3
+windows eye,window eyes,Screen Readers and Magnifier,11,3
+windows eyes,window eyes,Screen Readers and Magnifier,12,3
+windowseye,window eyes,Screen Readers and Magnifier,10,3
+windowseyes,window eyes,Screen Readers and Magnifier,11,3
+zoom text,zoomtext,Screen Readers and Magnifier,9,3
+zoomtext,zoomtext,Screen Readers and Magnifier,8,3
+anti virus,antivirus,Security and Antivirus ,10,6
+antivirus,antivirus,Security and Antivirus ,9,6
+avast,avast,Security and Antivirus ,5,6
+avg,avg,Security and Antivirus ,3,6
+avgvirus,avg,Security and Antivirus ,8,6
+avira,avira,Security and Antivirus ,5,6
+bitdefender,bitdefender,Security and Antivirus ,11,6
+eset,eset,Security and Antivirus ,4,6
+firmware,firmware,Security and Antivirus ,8,6
+kaspersky,kaspersky,Security and Antivirus ,9,6
+malware,malware,Security and Antivirus ,7,6
+malware bytes,malware bytes,Security and Antivirus ,13,3
+malwarebytes,malware bytes,Security and Antivirus ,,3
+mse,microsoft security essential,Security and Antivirus ,3,4
+minerva,minerva,Security and Antivirus ,7,4
+ransomware,ransomware,Security and Antivirus ,10,5
+ransomwares,ransomware,Security and Antivirus ,11,5
+sopohs,sophos,Security and Antivirus ,6,3
+spam,spam,Security and Antivirus ,4,8
+titanium,titanium,Security and Antivirus ,8,4
+vipre,vipre,Security and Antivirus ,5,2
+vipre security,vipre,Security and Antivirus ,14,2
+vipresecurity,vipre,Security and Antivirus ,13,2
+virus,virus,Security and Antivirus ,5,9
+defender,windows defender,Security and Antivirus ,8,3
+win10 defender,windows defender,Security and Antivirus ,14,3
+win10defender,windows defender,Security and Antivirus ,13,3
+windows defender,windows defender,Security and Antivirus ,16,3
+windowsdefender,windows defender,Security and Antivirus ,15,3
+windows firewall,windows firewall,Security and Antivirus ,16,5
+windowsfirewall,windows firewall,Security and Antivirus ,15,5
+face_book,facebook,Social Nework,9,9
+facebook,facebook,Social Nework,8,9
+facebook app,facebook,Social Nework,12,9
+facebookapp,facebook,Social Nework,11,9
+fb,facebook,Social Nework,2,9
+reddit,reddit,Social Nework,6,8
+the qube,theqube,Social Nework,8,3
+theqube,theqube,Social Nework,7,3
+tw blue,twitter,Social Nework,7,6
+twblue,twitter,Social Nework,6,6
+twitter,twitter,Social Nework,7,6
+twitter app,twitter,Social Nework,11,6
+twitterapp,twitter,Social Nework,10,6
+microsoft access,microsoft access,SpreadSheets,16,5
+microsoftaccess,microsoft access,SpreadSheets,15,5
+ms access,microsoft access,SpreadSheets,9,5
+msaccess,microsoft access,SpreadSheets,8,5
+excel,microsoft excel,SpreadSheets,5,6
+excel 2007,microsoft excel,SpreadSheets,10,6
+excel 2010,microsoft excel,SpreadSheets,10,6
+excel 2013,microsoft excel,SpreadSheets,10,6
+excel 2016,microsoft excel,SpreadSheets,10,6
+excel2007,microsoft excel,SpreadSheets,9,6
+excel2010,microsoft excel,SpreadSheets,9,6
+excel2013,microsoft excel,SpreadSheets,9,6
+excel2016,microsoft excel,SpreadSheets,9,6
+microsoft excel,microsoft excel,SpreadSheets,15,6
+microsoftexcel,microsoft excel,SpreadSheets,14,6
+ms excel,microsoft excel,SpreadSheets,8,6
+msexcel,microsoft excel,SpreadSheets,7,6
+quick books,quickbooks,SpreadSheets,11,5
+quickbooks,quickbooks,SpreadSheets,10,5
+spss,spss,SpreadSheets,4,7
+kvm,kvm,Systems,3,4
+piriform recuva,piriform recuva,Systems,15,3
+piriformrecuva,piriform recuva,Systems,14,3
+recuva,piriform recuva,Systems,6,3
+revo,revo,Systems,4,3
+windows tablets,windows tablets,Tablet and Braille Devices,15,7
+windowstablets,windows tablets,Tablet and Braille Devices,14,7
+cambio,cambio,Tablet and Portable Device,6,7
+chromebook,chromebook,Tablet and Portable Device,10,8
+combibraille,combibraille,Tablet and Portable Device,12,3
+ipad,ipad,Tablet and Portable Device,4,9
+iphone,iphone,Tablet and Portable Device,6,9
+ipod,ipod,Tablet and Portable Device,4,9
+kindle,kindle,Tablet and Portable Device,6,9
+mac,mac,Tablet and Portable Device,3,9
+microsoft surface,microsoft surface,Tablet and Portable Device,17,9
+microsoftsurface,microsoft surface,Tablet and Portable Device,16,9
+triple talk,tripletalk,Tablet and Portable Device,11,1
+tripletalk,tripletalk,Tablet and Portable Device,10,1
+vox clock,vox clock,Tablet and Portable Device,9,2
+voxclock,vox clock,Tablet and Portable Device,8,2
+acapela,acapela,Text To Speech TTS,7,3
+acapela tts,acapela,Text To Speech TTS,11,3
+acapela voices,acapela,Text To Speech TTS,14,3
+acapelatts,acapela,Text To Speech TTS,10,3
+acapelavoices,acapela,Text To Speech TTS,13,3
+acappella,acapela,Text To Speech TTS,9,3
+accappella,acapela,Text To Speech TTS,10,3
+code factory,codefactory,Text To Speech TTS,12,3
+codefactory,codefactory,Text To Speech TTS,11,3
+dectalk speech,dectalk speech,Text To Speech TTS,14,3
+dectalkspeech,dectalk speech,Text To Speech TTS,13,3
+eloquence,eloquence,Text To Speech TTS,9,3
+espeak,espeak,Text To Speech TTS,6,3
+koba speech,koba speech,Text To Speech TTS,11,3
+kobaspeech,koba speech,Text To Speech TTS,10,3
+lyrebird,lyrebird,Text To Speech TTS,8,3
+mary tts,marytts,Text To Speech TTS,8,3
+marytts,marytts,Text To Speech TTS,7,3
+mbrola,mbrola,Text To Speech TTS,6,3
+mbrolax,mbrolax,Text To Speech TTS,7,3
+nuance,nuance,Text To Speech TTS,6,3
+nuance vocaliser,nuance,Text To Speech TTS,16,3
+nuancevocaliser,nuance,Text To Speech TTS,15,3
+core voices,onecore voices,Text To Speech TTS,11,3
+corevoices,onecore voices,Text To Speech TTS,10,3
+sapi,sapi,Text To Speech TTS,4,3
+sapi 4,sapi,Text To Speech TTS,6,3
+sapi 5,sapi,Text To Speech TTS,6,3
+sapi4,sapi,Text To Speech TTS,5,3
+sapi5,sapi,Text To Speech TTS,5,3
+sapi5 woices,sapi,Text To Speech TTS,12,3
+sapi5woices,sapi,Text To Speech TTS,11,3
+sappi,sapi,Text To Speech TTS,5,3
+sappy,sapi,Text To Speech TTS,5,3
+tiflotecnia,tiflotecnia,Text To Speech TTS,8,3
+tiflotecnia vocalizer,tiflotecnia,Text To Speech TTS,21,3
+tiflotecniavocalizer,tiflotecnia,Text To Speech TTS,20,3
+tifloteknia,tiflotecnia,Text To Speech TTS,11,3
+truevoice,truvoice,Text To Speech TTS,9,3
+truvoice,truvoice,Text To Speech TTS,8,3
+vocaliser,vocalizer,Text To Speech TTS,9,3
+vocalizer,vocalizer,Text To Speech TTS,9,3
+vocalizer 40,vocalizer,Text To Speech TTS,12,3
+vocalizer expressive,vocalizer,Text To Speech TTS,20,3
+vocalizer40,vocalizer,Text To Speech TTS,11,3
+vocalizerexpressive,vocalizer,Text To Speech TTS,19,3
+voicelab,voicelab,Text To Speech TTS,8,3
+access link,access link,Unknown,11,0
+accesslink,access link,Unknown,10,0
+add on,add on,Unknown,6,0
+addon,add on,Unknown,5,0
+addons,add on,Unknown,6,0
+alarm clock,alarm clock,Unknown,11,0
+alarmclock,alarm clock,Unknown,10,0
+andaddenda,andaddenda,Unknown,10,0
+android,android,Unknown,7,0
+archive,archive,Unknown,7,0
+audio,audio,Unknown,5,0
+audio recorder,audio recorder,Unknown,14,0
+audio recording,audio recorder,Unknown,15,0
+audiorecorder,audio recorder,Unknown,13,0
+audiorecording,audio recorder,Unknown,14,0
+audio splitter,audio splitter,Unknown,14,0
+audiosplitter,audio splitter,Unknown,13,0
+backup,backup,Unknown,6,0
+braille,braille,Unknown,7,0
+browser,browser,Unknown,7,0
+cavi,cavi,Unknown,4,0
+chat,chat,Unknown,4,0
+check box,check box,Unknown,9,0
+checkbox,check box,Unknown,8,0
+chess,chess,Unknown,5,0
+clock,clock,Unknown,5,0
+cloning software,cloning software,Unknown,16,0
+cloningsoftware,cloning software,Unknown,15,0
+cloud ocr,cloud ocr,Unknown,9,0
+cloudocr,cloud ocr,Unknown,8,0
+digital signature,digital signature,Unknown,17,0
+digitalsignature,digital signature,Unknown,16,0
+document content,document content,Unknown,16,0
+documentcontent,document content,Unknown,15,0
+downloader,downloader,Unknown,10,0
+driver,driver,Unknown,6,0
+dynamic content,dynamic content,Unknown,15,0
+dynamiccontent,dynamic content,Unknown,14,0
+edit box,edit box,Unknown,8,0
+editbox,edit box,Unknown,7,0
+feature,feature,Unknown,7,0
+file converter,file converter,Unknown,14,0
+fileconverter,file converter,Unknown,13,0
+foreign language,foreign language,Unknown,16,0
+foreignlanguage,foreign language,Unknown,15,0
+grammar,grammar,Unknown,7,0
+graphic,graphic,Unknown,7,0
+guide,guide,Unknown,5,0
+inbox,inbox,Unknown,5,0
+information,information,Unknown,11,0
+installation,installation,Unknown,12,0
+keystroke,keystroke,Unknown,9,0
+language,language,Unknown,8,0
+login,login,Unknown,5,0
+mail,mail,Unknown,4,0
+mail app,mail app,Unknown,8,0
+mailapp,mail app,Unknown,7,0
+map,maps,Unknown,3,0
+maps,maps,Unknown,4,0
+microsoft,microsoft,Unknown,9,0
+ms,microsoft,Unknown,2,0
+ms account,microsoft account,Unknown,10,0
+msaccount,microsoft account,Unknown,9,0
+microsoft mark,microsoft mark,Unknown,14,0
+microsoftmark,microsoft mark,Unknown,13,0
+microsoft speech,microsoft speech,Unknown,16,0
+microsoftspeech,microsoft speech,Unknown,15,0
+ms speech,microsoft speech,Unknown,9,0
+msspeech,microsoft speech,Unknown,8,0
+microsoft spi5 engine,microsoft spi5engine,Unknown,21,0
+microsoft spi5engine,microsoft spi5engine,Unknown,20,0
+microsoftspi5engine,microsoft spi5engine,Unknown,19,0
+microsoft voices,microsoft voices,Unknown,16,0
+microsoftvoices,microsoft voices,Unknown,15,0
+ms voices,microsoft voices,Unknown,9,0
+msvoices,microsoft voices,Unknown,8,0
+microsoft windows,microsoft windows,Unknown,17,0
+microsoftwindows,microsoft windows,Unknown,16,0
+ms windows,microsoft windows,Unknown,10,0
+mswindows,microsoft windows,Unknown,9,0
+mp3,mp3,Unknown,3,0
+mp3 converter,mp3 converter,Unknown,13,0
+mp3converter,mp3 converter,Unknown,12,0
+navigation,navigation,Unknown,10,0
+news reader,newsreader,Unknown,11,0
+newsread,newsreader,Unknown,8,0
+newsreader,newsreader,Unknown,10,0
+ocr,ocr,Unknown,3,0
+opinion,opinion,Unknown,7,0
+password,password,Unknown,8,0
+prediction,prediction,Unknown,10,0
+problem,problem,Unknown,7,0
+rc,release candidate,Unknown,2,0
+rc 1,release candidate,Unknown,4,0
+rc 2,release candidate,Unknown,4,0
+rc 3,release candidate,Unknown,4,0
+rc 4,release candidate,Unknown,4,0
+rc1,release candidate,Unknown,3,0
+rc2,release candidate,Unknown,3,0
+rc3,release candidate,Unknown,3,0
+rc4,release candidate,Unknown,3,0
+scanner,scanner,Unknown,7,0
+screamer,screamer,Unknown,8,0
+settings,settings,Unknown,8,0
+shortcut,shortcut,Unknown,8,0
+shoutcast,shortcut,Unknown,9,0
+spellcheck,spellcheck,Unknown,10,0
+spellchecker,spellcheck,Unknown,12,0
+sql,sql,Unknown,3,0
+stickers,stickers,Unknown,8,0
+sticky keys,sticky keys,Unknown,11,0
+stickykeys,sticky keys,Unknown,10,0
+subtitle,subtitle,Unknown,8,0
+subtitles,subtitle,Unknown,9,0
+text analyzer,text analyzer,Unknown,13,0
+textanalyzer,text analyzer,Unknown,12,0
+tutorial,tutorial,Unknown,8,0
+usability,usability,Unknown,9,0
+vfo,vfo,Unknown,3,0
+webm,webm,Unknown,4,0
+windows,windows,Unknown,7,0
+windows preview,windows preview,Unknown,15,0
+windowspreview,windows preview,Unknown,14,0
+chrome,chrome,Web Browser,6,6
+chrome 51,chrome,Web Browser,9,6
+chrome51,chrome,Web Browser,8,6
+google chrome,chrome,Web Browser,13,6
+googlechrome,chrome,Web Browser,12,6
+canary,chrome canary,Web Browser,6,1
+chromium,chromium,Web Browser,8,1
+fire fox,firefox,Web Browser,9,8
+ff,firefox,Web Browser,2,6
+firefox,firefox,Web Browser,7,6
+firefox 11,firefox,Web Browser,10,6
+firefox 14,firefox,Web Browser,10,6
+firefox 15,firefox,Web Browser,10,6
+firefox 3,firefox,Web Browser,9,6
+firefox 4,firefox,Web Browser,9,6
+firefox 50,firefox,Web Browser,10,6
+firefox 57,firefox,Web Browser,10,6
+firefox 6,firefox,Web Browser,9,6
+firefox hello,firefox,Web Browser,13,6
+firefox11,firefox,Web Browser,9,6
+firefox14,firefox,Web Browser,9,6
+firefox15,firefox,Web Browser,9,6
+firefox3,firefox,Web Browser,8,6
+firefox4,firefox,Web Browser,8,6
+firefox50,firefox,Web Browser,9,6
+firefox57,firefox,Web Browser,9,6
+firefox6,firefox,Web Browser,8,6
+firefoxhello,firefox,Web Browser,12,6
+mozilla,firefox,Web Browser,7,6
+mozilla firefox,firefox,Web Browser,15,6
+mozilla firefox ,firefox,Web Browser,16,6
+mozillafirefox,firefox,Web Browser,14,6
+nightly,firefox nightly,Web Browser,7,4
+ie,internet explorer,Web Browser,2,6
+ie 10,internet explorer,Web Browser,5,6
+ie 11,internet explorer,Web Browser,5,6
+ie 6,internet explorer,Web Browser,4,6
+ie 7,internet explorer,Web Browser,4,6
+ie 8,internet explorer,Web Browser,4,6
+ie 9,internet explorer,Web Browser,4,6
+ie10,internet explorer,Web Browser,4,6
+ie11,internet explorer,Web Browser,4,6
+ie6,internet explorer,Web Browser,3,6
+ie7,internet explorer,Web Browser,3,6
+ie8,internet explorer,Web Browser,3,6
+ie9,internet explorer,Web Browser,3,6
+internet explorer,internet explorer,Web Browser,17,6
+internet explorer 10,internet explorer,Web Browser,20,6
+internet explorer 2003,internet explorer,Web Browser,22,6
+internet explorer 6,internet explorer,Web Browser,19,6
+internet explorer 8,internet explorer,Web Browser,19,6
+internet explorer 9,internet explorer,Web Browser,19,6
+internetexplorer,internet explorer,Web Browser,16,6
+internetexplorer10,internet explorer,Web Browser,18,6
+internetexplorer2003,internet explorer,Web Browser,20,6
+internetexplorer6,internet explorer,Web Browser,17,6
+internetexplorer8,internet explorer,Web Browser,17,6
+internetexplorer9,internet explorer,Web Browser,17,6
+edge,microsoft edge,Web Browser,4,6
+edge browser,microsoft edge,Web Browser,12,6
+edgebrowser,microsoft edge,Web Browser,11,6
+microsoft edge,microsoft edge,Web Browser,14,6
+microsoftedge,microsoft edge,Web Browser,13,6
+ms edge,microsoft edge,Web Browser,7,6
+msedge,microsoft edge,Web Browser,6,6
+opera,opera,Web Browser,5,7
+sea monkey,seamonkey,Web Browser,10,2
+seamonkey,seamonkey,Web Browser,9,2
+vivaldi,vivaldi,Web Browser,7,2
+water fox,waterfox,Web Browser,9,2
+waterfox,waterfox,Web Browser,8,2
+webbie,webbie,Web Browser,6,3
+web visum,webvisum,Web Browser,9,3
+webvisum,webvisum,Web Browser,8,3
+jarte,jarte,Word Processor,5,2
+latex,latex,Word Processor,5,8
+libra,libre office,Word Processor,5,5
+libre office,libre office,Word Processor,12,5
+libreoffice,libre office,Word Processor,11,5
+microsoft office,microsoft office,Word Processor,16,6
+microsoftoffice,microsoft office,Word Processor,15,6
+ms office,microsoft office,Word Processor,9,6
+ms office 2007,microsoft office,Word Processor,14,6
+ms office 365,microsoft office,Word Processor,13,6
+msoffice,microsoft office,Word Processor,8,6
+msoffice2007,microsoft office,Word Processor,12,6
+msoffice365,microsoft office,Word Processor,11,6
+office,microsoft office,Word Processor,6,6
+office 2003,microsoft office,Word Processor,11,6
+office 2007,microsoft office,Word Processor,11,6
+office 2010,microsoft office,Word Processor,11,6
+office 2013,microsoft office,Word Processor,11,6
+office 2016,microsoft office,Word Processor,11,6
+office 365,microsoft office,Word Processor,10,6
+office xp,microsoft office,Word Processor,9,6
+office2003,microsoft office,Word Processor,10,6
+office2007,microsoft office,Word Processor,10,6
+office2010,microsoft office,Word Processor,10,6
+office2013,microsoft office,Word Processor,10,6
+office2016,microsoft office,Word Processor,10,6
+office365,microsoft office,Word Processor,9,6
+officexp,microsoft office,Word Processor,8,6
+microsoft word,microsoft word,Word Processor,14,6
+microsoftword,microsoft word,Word Processor,13,6
+ms word,microsoft word,Word Processor,7,6
+msword,microsoft word,Word Processor,6,6
+word,microsoft word,Word Processor,4,6
+word 2003,microsoft word,Word Processor,9,6
+word 2010,microsoft word,Word Processor,9,6
+word 2013,microsoft word,Word Processor,9,6
+word 2016,microsoft word,Word Processor,9,6
+word 3,microsoft word,Word Processor,6,6
+word 5,microsoft word,Word Processor,6,6
+word xp,microsoft word,Word Processor,7,6
+word2003,microsoft word,Word Processor,8,6
+word2010,microsoft word,Word Processor,8,6
+word2013,microsoft word,Word Processor,8,6
+word2016,microsoft word,Word Processor,8,6
+word3,microsoft word,Word Processor,5,6
+word5,microsoft word,Word Processor,5,6
+wordxp,microsoft word,Word Processor,6,6
+nano,nano,Word Processor,4,7
+notepad,notepad,Word Processor,7,9
+notepad plus plus,notepad plus plus,Word Processor,17,9
+notepadplus,notepad plus plus,Word Processor,11,9
+open office,open office,Word Processor,11,5
+openoffice,open office,Word Processor,10,5
+word pad,wordpad,Word Processor,8,5
+wordpad,wordpad,Word Processor,7,5

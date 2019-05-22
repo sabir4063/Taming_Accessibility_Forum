@@ -1,0 +1,34 @@
+repost_[a-zA-Z]*
+thank[s]*
+cheer[s]*
+cheer[s]*_[a-zA-Z]*
+gt_[a-zA-Z]*
+lt_[a-zA-Z]*
+fw_[a-zA-Z0-9]*
+imam_[a-zA-Z]+
+[a-zA-Z]*_appreciated
+ io_[a-zA-Z]+
+please[_a-zA-Z]*
+_thank[s]*
+moderator[s]*
+comment[s]*
+com_[a-z]*
+[a-z_]*post[s]*
+also[_a-z]*
+[a-z0-9_]*fdf[0-9a-z_]*
+greetings[_a-z]*
+en_html
+ sent[_0-9a-z]*
+[a-z_]*wrote
+thanks[_a-z]*
+[_best]*[ ]* wishes_[a-z]*
+best_[a-z]*
+https?:[a-z\.\/\-\?\=\&\_0-9]*[\r\n]*\S
+https?:[a-z\.\/\-0-9]*[\r\n]*\S
+[\w\.-]+@[\w\.-]+(\.[\w]+)+
+gene nz joseph lee 
+<[a-z0-9\@\.]*>
+[a-z\.]+\@[a-z\.]*
+\@[a-z\.]*
+[a-z\.]+\@
+[0-9 \_]*_escreveu

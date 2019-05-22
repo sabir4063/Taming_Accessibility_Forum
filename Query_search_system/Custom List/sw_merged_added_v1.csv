@@ -1,0 +1,484 @@
+name,new name,category,len,color
+calc,calculator,Desktop Utility,4,6
+calculator,calculator,Desktop Utility,10,6
+calendar,calender,Desktop Utility,8,6
+calender,calender,Desktop Utility,8,6
+microsoft calculator,microsoft calculator,Desktop Utility,20,6
+microsoftcalculator,microsoft calculator,Desktop Utility,19,6
+windows 10 calculatore,microsoft calculator,Desktop Utility,22,6
+windows10calculatore,microsoft calculator,Desktop Utility,20,6
+ms onenote,microsoft onenote,Desktop Utility,10,6
+msonenote,microsoft onenote,Desktop Utility,9,6
+one note,microsoft onenote,Desktop Utility,8,6
+onenote,microsoft onenote,Desktop Utility,7,6
+microsoft powerpoint,microsoft powerpoint,Desktop Utility,20,9
+microsoftpowerpoint,microsoft powerpoint,Desktop Utility,19,9
+ms powerpoint,microsoft powerpoint,Desktop Utility,13,9
+mspowerpoint,microsoft powerpoint,Desktop Utility,12,9
+powerpoint,microsoft powerpoint,Desktop Utility,10,9
+pptx,microsoft powerpoint,Desktop Utility,4,9
+pons media,pontes media,Desktop Utility,10,2
+ponsmedia,pontes media,Desktop Utility,9,2
+pontes media,pontes media,Desktop Utility,12,2
+pontesmedia,pontes media,Desktop Utility,11,2
+registry fixing,registry fixing,Desktop Utility,15,3
+registryfixing,registry fixing,Desktop Utility,14,3
+roxio,roxio,Desktop Utility,5,7
+rumola,rumola,Desktop Utility,6,2
+task manager,taskmanager,Desktop Utility,12,9
+taskmanager,taskmanager,Desktop Utility,11,9
+uac,uac,Desktop Utility,3,5
+windows 10 app,windows 10 apps,Desktop Utility,14,5
+windows 10 app essestial add on,windows 10 apps,Desktop Utility,31,5
+wintenapps,windows 10 apps,Desktop Utility,10,5
+wintenapps 1703,windows 10 apps,Desktop Utility,15,5
+wintenapps 17062,windows 10 apps,Desktop Utility,16,5
+wintenapps 1803,windows 10 apps,Desktop Utility,15,5
+wintenapps1703,windows 10 apps,Desktop Utility,14,5
+wintenapps17062,windows 10 apps,Desktop Utility,15,5
+wintenapps1803,windows 10 apps,Desktop Utility,14,5
+wintwnapps,windows 10 apps,Desktop Utility,10,5
+wintwnapps 16111,windows 10 apps,Desktop Utility,16,5
+wintwnapps 1802,windows 10 apps,Desktop Utility,15,5
+wintwnapps16111,windows 10 apps,Desktop Utility,15,5
+wintwnapps1802,windows 10 apps,Desktop Utility,14,5
+windows explorer,windows explorer,Desktop Utility,16,9
+windowsexplorer,windows explorer,Desktop Utility,15,9
+winrar,winrar,Desktop Utility,6,9
+workspace,workspace,Desktop Utility,9,7
+alexa,alexa,Dictation and Voice Assistant,5,5
+alexa app,alexa,Dictation and Voice Assistant,9,5
+alexaapp,alexa,Dictation and Voice Assistant,8,5
+cortana,cortana,Dictation and Voice Assistant,7,5
+dragon,dragon,Dictation and Voice Assistant,6,5
+siri,siri,Dictation and Voice Assistant,4,5
+amazon,amazon,E-commerce sites,6,9
+bloomberg,bloomberg,E-commerce sites,9,9
+microsoft store,microsoft store,E-commerce sites,15,9
+microsoftstore,microsoft store,E-commerce sites,14,9
+ms strore,microsoft store,E-commerce sites,9,9
+msstrore,microsoft store,E-commerce sites,8,9
+pay pal,paypal,E-commerce sites,7,9
+paypal,paypal,E-commerce sites,6,9
+vanguard,vanguard,E-commerce sites,8,7
+walmart,walmart,E-commerce sites,7,9
+gmail,gmail,Email Client,5,9
+live,live mail,Email Client,4,9
+live mail,live mail,Email Client,9,9
+livemail,live mail,Email Client,8,9
+mailbird,mailbird,Email Client,8,7
+microsoft outlook,microsoft outlook,Email Client,17,6
+microsoftoutlook,microsoft outlook,Email Client,16,6
+ms outlook,microsoft outlook,Email Client,10,6
+ms outlook2010,microsoft outlook,Email Client,14,6
+msoutlook,microsoft outlook,Email Client,9,6
+msoutlook2010,microsoft outlook,Email Client,13,6
+oe,microsoft outlook,Email Client,2,6
+oe classic,microsoft outlook,Email Client,10,6
+oeclassic,microsoft outlook,Email Client,9,6
+outlook,microsoft outlook,Email Client,7,6
+outlook 2000,microsoft outlook,Email Client,12,6
+outlook 2003,microsoft outlook,Email Client,12,6
+outlook 2007,microsoft outlook,Email Client,12,6
+outlook 2010,microsoft outlook,Email Client,12,6
+outlook 2013,microsoft outlook,Email Client,12,6
+outlook 2016,microsoft outlook,Email Client,12,6
+outlook 2017,microsoft outlook,Email Client,12,6
+outlook 365,microsoft outlook,Email Client,11,6
+outlook2000,microsoft outlook,Email Client,11,6
+outlook2003,microsoft outlook,Email Client,11,6
+outlook2007,microsoft outlook,Email Client,11,6
+outlook2010,microsoft outlook,Email Client,11,6
+outlook2013,microsoft outlook,Email Client,11,6
+outlook2016,microsoft outlook,Email Client,11,6
+outlook2017,microsoft outlook,Email Client,11,6
+outlook365,microsoft outlook,Email Client,10,6
+windows mail,microsoft outlook,Email Client,12,6
+windows mail app,microsoft outlook,Email Client,16,6
+windowsmail,microsoft outlook,Email Client,11,6
+windowsmailapp,microsoft outlook,Email Client,14,6
+msn,msn,Email Client,3,7
+snail,snail,Email Client,5,4
+mozilla thunderbird,thunderbird,Email Client,19,3
+mozillathunderbird,thunderbird,Email Client,18,3
+thinderbird,thunderbird,Email Client,11,3
+thumb drive,thunderbird,Email Client,11,3
+thumbdrive,thunderbird,Email Client,10,3
+thunder bird,thunderbird,Email Client,12,3
+thunder bird 64 bit,thunderbird,Email Client,19,3
+thunderbird,thunderbird,Email Client,11,3
+thunderbird 45,thunderbird,Email Client,14,3
+thunderbird45,thunderbird,Email Client,13,3
+thunderbird64bit,thunderbird,Email Client,16,3
+yahoo mail,yahoo mail,Email Client,10,5
+yahoomail,yahoo mail,Email Client,9,5
+drop box,dropbox,File Sharing,8,5
+google drive,google drive,File Sharing,12,5
+googledrive,google drive,File Sharing,11,5
+open drive,open drive,File Sharing,10,5
+opendrive,open drive,File Sharing,9,5
+qbittorrent,qbittorrent,File Sharing,11,6
+resilio,resilio,File Sharing,7,4
+slack,slack,File Sharing,5,4
+torrent,torrent,File Sharing,7,8
+windows onedrive,windows one drive,File Sharing,16,5
+windowsonedrive,windows one drive,File Sharing,15,5
+chatty,chatty,Messaging Application,6,7
+chatzilla,chatzilla,Messaging Application,9,4
+google hangouts,google hangouts,Messaging Application,15,9
+googlehangouts,google hangouts,Messaging Application,14,9
+miranda,miranda ng,Messaging Application,7,3
+skype,skype,Messaging Application,5,6
+skype 7,skype,Messaging Application,7,6
+skype 8,skype,Messaging Application,7,6
+skype app,skype,Messaging Application,9,6
+skype7,skype,Messaging Application,6,6
+skype8,skype,Messaging Application,6,6
+skypeapp,skype,Messaging Application,8,6
+skype classic,skype classic,Messaging Application,13,3
+skype uwp,skype uwp,Messaging Application,9,6
+skypeuwp,skype uwp,Messaging Application,8,6
+team speak,teamspeak,Messaging Application,10,5
+teamspeak,teamspeak,Messaging Application,9,5
+team talk,teamtalk,Messaging Application,9,2
+teamtalk,teamtalk,Messaging Application,8,2
+tt,teamtalk,Messaging Application,2,2
+viber,viber,Messaging Application,5,8
+whats app,whatsapp,Messaging Application,9,9
+whatsapp,whatsapp,Messaging Application,8,9
+whatsapp web,whatsapp web,Messaging Application,12,9
+whatsappweb,whatsapp web,Messaging Application,11,9
+wlm,windows live messanger,Messaging Application,3,8
+zello,zello,Messaging Application,5,4
+zoom,zoom,Messaging Application,4,2
+ubuntu,ubuntu,Operating System,6,9
+w10,windows 10,Operating System,3,6
+win 10,windows 10,Operating System,6,6
+win 10 mail app,windows 10,Operating System,15,6
+win ten,windows 10,Operating System,7,6
+win10,windows 10,Operating System,5,6
+win10 32 bit,windows 10,Operating System,12,6
+win10 apps,windows 10,Operating System,10,6
+win1032bit,windows 10,Operating System,10,6
+win10apps,windows 10,Operating System,9,6
+windo10,windows 10,Operating System,7,6
+windows 10,windows 10,Operating System,10,6
+windows 10 64 bit,windows 10,Operating System,17,6
+windows 10s,windows 10,Operating System,11,6
+windows ten,windows 10,Operating System,11,6
+windows10,windows 10,Operating System,9,6
+windows1064bit,windows 10,Operating System,14,6
+windows10app,windows 10,Operating System,12,6
+windows10appessestialaddon,windows 10,Operating System,26,6
+windows10s,windows 10,Operating System,10,6
+windowsten,windows 10,Operating System,10,6
+winten,windows 10,Operating System,6,6
+winten1803,windows 10,Operating System,10,6
+win 2000,windows 2000,Operating System,8,9
+win2000,windows 2000,Operating System,7,9
+windows 2000,windows 2000,Operating System,12,9
+windows2000,windows 2000,Operating System,11,9
+win 7,windows 7,Operating System,5,6
+win7,windows 7,Operating System,4,6
+windows 7,windows 7,Operating System,9,6
+windows 7 sp1,windows 7,Operating System,13,6
+windows seven,windows 7,Operating System,13,6
+windows7,windows 7,Operating System,8,6
+windows7sp1,windows 7,Operating System,11,6
+windowsseven,windows 7,Operating System,12,6
+win 8,windows 8,Operating System,5,9
+win8,windows 8,Operating System,4,9
+windows 8,windows 8,Operating System,9,9
+windows8,windows 8,Operating System,8,9
+windows 81,windows 81,Operating System,10,9
+windows81,windows 81,Operating System,9,9
+windows 98,windows 98,Operating System,10,9
+windows98,windows 98,Operating System,9,9
+windows core,windows core,Operating System,12,9
+windowscore,windows core,Operating System,11,9
+windows iot,windows iot,Operating System,11,9
+windowsiot,windows iot,Operating System,10,9
+vista,windows vista,Operating System,5,9
+windows vista,windows vista,Operating System,13,9
+windowsvista,windows vista,Operating System,12,9
+windows xp,windows xp,Operating System,10,6
+windowsxp,windows xp,Operating System,9,6
+xp,windows xp,Operating System,2,6
+xp 2002,windows xp,Operating System,7,6
+xp 2003,windows xp,Operating System,7,6
+xp 7,windows xp,Operating System,4,6
+xp 8,windows xp,Operating System,4,6
+xp sp2,windows xp,Operating System,6,6
+xp sp3,windows xp,Operating System,6,6
+xp2002,windows xp,Operating System,6,6
+xp2003,windows xp,Operating System,6,6
+xp7,windows xp,Operating System,3,6
+xp8,windows xp,Operating System,3,6
+xpsp2,windows xp,Operating System,5,6
+xpsp3,windows xp,Operating System,5,6
+service pack,windows xp service pack,Operating System,12,6
+servicepack,windows xp service pack,Operating System,11,6
+sp1,windows xp service pack,Operating System,3,6
+abbyy,abbyy finereader,Optical Character Recognizer OCR,5,3
+adobereaderdc,adobe reader,Optical Character Recognizer OCR,13,6
+balabolka,balabolka,Optical Character Recognizer OCR,9,3
+chrome reader,chrome reader,Optical Character Recognizer OCR,13,5
+chromereader,chrome reader,Optical Character Recognizer OCR,12,5
+codex,codex,Optical Character Recognizer OCR,5,3
+knfb,knfb reader,Optical Character Recognizer OCR,4,3
+knfb reader,knfb reader,Optical Character Recognizer OCR,11,3
+knfbreader,knfb reader,Optical Character Recognizer OCR,10,3
+kurzweil,Kurzweil,Optical Character Recognizer OCR,8,3
+omnipage,omnipage,Optical Character Recognizer OCR,8,3
+open book,openbook,Optical Character Recognizer OCR,9,3
+openbook,openbook,Optical Character Recognizer OCR,8,3
+acrobat,adobe reader,PDF and E-Book Reader,7,6
+acrobat dc,adobe reader,PDF and E-Book Reader,10,6
+acrobat reader dc,adobe reader,PDF and E-Book Reader,17,6
+adobe,adobe reader,PDF and E-Book Reader,5,6
+adobe acrobat,adobe reader,PDF and E-Book Reader,13,6
+adobe acrobat reader,adobe reader,PDF and E-Book Reader,20,6
+adobe dc,adobe reader,PDF and E-Book Reader,8,6
+adobe reader,adobe reader,PDF and E-Book Reader,12,6
+adobe reader dc,adobe reader,PDF and E-Book Reader,15,6
+adobeacrobat,adobe reader,PDF and E-Book Reader,12,6
+adobeacrobatreader,adobe reader,PDF and E-Book Reader,18,6
+adobereader,adobe reader,PDF and E-Book Reader,11,6
+dc reader,adobe reader,PDF and E-Book Reader,9,6
+primo pdf,primo,PDF and E-Book Reader,9,1
+primopdf,primo,PDF and E-Book Reader,8,1
+qread,qread,PDF and E-Book Reader,5,3
+sumatra,sumatra,PDF and E-Book Reader,7,2
+jaws,jaws,Screen Readers and Magnifier,4,3
+nvda,nvda,Screen Readers and Magnifier,4,3
+nvda 20163,nvda,Screen Readers and Magnifier,10,3
+nvda 20171,nvda,Screen Readers and Magnifier,10,3
+nvda rc1,nvda,Screen Readers and Magnifier,8,3
+nvda20163,nvda,Screen Readers and Magnifier,9,3
+nvda20171,nvda,Screen Readers and Magnifier,9,3
+nvdarc1,nvda,Screen Readers and Magnifier,7,3
+serotek,serotek,Screen Readers and Magnifier,7,3
+voiceover,voiceover,Screen Readers and Magnifier,9,3
+webanywhere,webanywhere,Screen Readers and Magnifier,11,3
+window eye,window eyes,Screen Readers and Magnifier,10,3
+window eyes,window eyes,Screen Readers and Magnifier,11,3
+windoweyes,window eyes,Screen Readers and Magnifier,10,3
+windows eye,window eyes,Screen Readers and Magnifier,11,3
+windows eyes,window eyes,Screen Readers and Magnifier,12,3
+windowseye,window eyes,Screen Readers and Magnifier,10,3
+windowseyes,window eyes,Screen Readers and Magnifier,11,3
+zoom text,zoomtext,Screen Readers and Magnifier,9,3
+zoomtext,zoomtext,Screen Readers and Magnifier,8,3
+anti virus,antivirus,Security and Antivirus ,10,6
+antivirus,antivirus,Security and Antivirus ,9,6
+avast,avast,Security and Antivirus ,5,6
+avg,avg,Security and Antivirus ,3,6
+avgvirus,avg,Security and Antivirus ,8,6
+avira,avira,Security and Antivirus ,5,6
+bitdefender,bitdefender,Security and Antivirus ,11,6
+eset,eset,Security and Antivirus ,4,6
+firmware,firmware,Security and Antivirus ,8,6
+kaspersky,kaspersky,Security and Antivirus ,9,6
+malware,malware,Security and Antivirus ,7,6
+malware bytes,malware bytes,Security and Antivirus ,13,3
+malwarebytes,malware bytes,Security and Antivirus ,,3
+mse,microsoft security essential,Security and Antivirus ,3,4
+minerva,minerva,Security and Antivirus ,7,4
+ransomware,ransomware,Security and Antivirus ,10,5
+ransomwares,ransomware,Security and Antivirus ,11,5
+sopohs,sophos,Security and Antivirus ,6,3
+spam,spam,Security and Antivirus ,4,8
+titanium,titanium,Security and Antivirus ,8,4
+vipre,vipre,Security and Antivirus ,5,2
+vipre security,vipre,Security and Antivirus ,14,2
+vipresecurity,vipre,Security and Antivirus ,13,2
+virus,virus,Security and Antivirus ,5,9
+defender,windows defender,Security and Antivirus ,8,3
+win10 defender,windows defender,Security and Antivirus ,14,3
+win10defender,windows defender,Security and Antivirus ,13,3
+windows defender,windows defender,Security and Antivirus ,16,3
+windowsdefender,windows defender,Security and Antivirus ,15,3
+windows firewall,windows firewall,Security and Antivirus ,16,5
+windowsfirewall,windows firewall,Security and Antivirus ,15,5
+face book,facebook,Social Nework,9,9
+facebook,facebook,Social Nework,8,9
+facebook app,facebook,Social Nework,12,9
+facebookapp,facebook,Social Nework,11,9
+fb,facebook,Social Nework,2,9
+reddit,reddit,Social Nework,6,8
+the qube,theqube,Social Nework,8,3
+theqube,theqube,Social Nework,7,3
+tw blue,twitter,Social Nework,7,6
+twblue,twitter,Social Nework,6,6
+twitter,twitter,Social Nework,7,6
+twitter app,twitter,Social Nework,11,6
+twitterapp,twitter,Social Nework,10,6
+microsoft access,microsoft access,SpreadSheets,16,5
+microsoftaccess,microsoft access,SpreadSheets,15,5
+ms access,microsoft access,SpreadSheets,9,5
+msaccess,microsoft access,SpreadSheets,8,5
+excel,microsoft excel,SpreadSheets,5,6
+excel 2007,microsoft excel,SpreadSheets,10,6
+excel 2010,microsoft excel,SpreadSheets,10,6
+excel 2013,microsoft excel,SpreadSheets,10,6
+excel 2016,microsoft excel,SpreadSheets,10,6
+excel2007,microsoft excel,SpreadSheets,9,6
+excel2010,microsoft excel,SpreadSheets,9,6
+excel2013,microsoft excel,SpreadSheets,9,6
+excel2016,microsoft excel,SpreadSheets,9,6
+microsoft excel,microsoft excel,SpreadSheets,15,6
+microsoftexcel,microsoft excel,SpreadSheets,14,6
+ms excel,microsoft excel,SpreadSheets,8,6
+msexcel,microsoft excel,SpreadSheets,7,6
+quick books,quickbooks,SpreadSheets,11,5
+quickbooks,quickbooks,SpreadSheets,10,5
+spss,spss,SpreadSheets,4,7
+kvm,kvm,Systems,3,4
+piriform recuva,piriform recuva,Systems,15,3
+piriformrecuva,piriform recuva,Systems,14,3
+recuva,piriform recuva,Systems,6,3
+revo,revo,Systems,4,3
+windows tablets,windows tablets,Tablet and Braille Devices,15,7
+windowstablets,windows tablets,Tablet and Braille Devices,14,7
+cambio,cambio,Tablet and Portable Device,6,7
+chromebook,chromebook,Tablet and Portable Device,10,8
+combibraille,combibraille,Tablet and Portable Device,12,3
+ipad,ipad,Tablet and Portable Device,4,9
+iphone,iphone,Tablet and Portable Device,6,9
+ipod,ipod,Tablet and Portable Device,4,9
+kindle,kindle,Tablet and Portable Device,6,9
+mac,mac,Tablet and Portable Device,3,9
+microsoft surface,microsoft surface,Tablet and Portable Device,17,9
+microsoftsurface,microsoft surface,Tablet and Portable Device,16,9
+triple talk,tripletalk,Tablet and Portable Device,11,1
+tripletalk,tripletalk,Tablet and Portable Device,10,1
+vox clock,vox clock,Tablet and Portable Device,9,2
+voxclock,vox clock,Tablet and Portable Device,8,2
+chrome,chrome,Web Browser,6,6
+chrome 51,chrome,Web Browser,9,6
+chrome51,chrome,Web Browser,8,6
+google chrome,chrome,Web Browser,13,6
+googlechrome,chrome,Web Browser,12,6
+canary,chrome canary,Web Browser,6,1
+chromium,chromium,Web Browser,8,1
+ff,firefox,Web Browser,2,6
+firefox,firefox,Web Browser,7,6
+firefox 11,firefox,Web Browser,10,6
+firefox 14,firefox,Web Browser,10,6
+firefox 15,firefox,Web Browser,10,6
+firefox 3,firefox,Web Browser,9,6
+firefox 4,firefox,Web Browser,9,6
+firefox 50,firefox,Web Browser,10,6
+firefox 57,firefox,Web Browser,10,6
+firefox 6,firefox,Web Browser,9,6
+firefox hello,firefox,Web Browser,13,6
+firefox11,firefox,Web Browser,9,6
+firefox14,firefox,Web Browser,9,6
+firefox15,firefox,Web Browser,9,6
+firefox3,firefox,Web Browser,8,6
+firefox4,firefox,Web Browser,8,6
+firefox50,firefox,Web Browser,9,6
+firefox57,firefox,Web Browser,9,6
+firefox6,firefox,Web Browser,8,6
+firefoxhello,firefox,Web Browser,12,6
+mozilla,firefox,Web Browser,7,6
+mozilla firefox,firefox,Web Browser,15,6
+mozilla firefox ,firefox,Web Browser,16,6
+mozillafirefox,firefox,Web Browser,14,6
+nightly,firefox nightly,Web Browser,7,4
+ie,internet explorer,Web Browser,2,6
+ie 10,internet explorer,Web Browser,5,6
+ie 11,internet explorer,Web Browser,5,6
+ie 6,internet explorer,Web Browser,4,6
+ie 7,internet explorer,Web Browser,4,6
+ie 8,internet explorer,Web Browser,4,6
+ie 9,internet explorer,Web Browser,4,6
+ie10,internet explorer,Web Browser,4,6
+ie11,internet explorer,Web Browser,4,6
+ie6,internet explorer,Web Browser,3,6
+ie7,internet explorer,Web Browser,3,6
+ie8,internet explorer,Web Browser,3,6
+ie9,internet explorer,Web Browser,3,6
+internet explorer,internet explorer,Web Browser,17,6
+internet explorer 10,internet explorer,Web Browser,20,6
+internet explorer 2003,internet explorer,Web Browser,22,6
+internet explorer 6,internet explorer,Web Browser,19,6
+internet explorer 8,internet explorer,Web Browser,19,6
+internet explorer 9,internet explorer,Web Browser,19,6
+internetexplorer,internet explorer,Web Browser,16,6
+internetexplorer10,internet explorer,Web Browser,18,6
+internetexplorer2003,internet explorer,Web Browser,20,6
+internetexplorer6,internet explorer,Web Browser,17,6
+internetexplorer8,internet explorer,Web Browser,17,6
+internetexplorer9,internet explorer,Web Browser,17,6
+edge,microsoft edge,Web Browser,4,6
+edge browser,microsoft edge,Web Browser,12,6
+edgebrowser,microsoft edge,Web Browser,11,6
+microsoft edge,microsoft edge,Web Browser,14,6
+microsoftedge,microsoft edge,Web Browser,13,6
+ms edge,microsoft edge,Web Browser,7,6
+msedge,microsoft edge,Web Browser,6,6
+opera,opera,Web Browser,5,7
+sea monkey,seamonkey,Web Browser,10,2
+seamonkey,seamonkey,Web Browser,9,2
+vivaldi,vivaldi,Web Browser,7,2
+water fox,waterfox,Web Browser,9,2
+waterfox,waterfox,Web Browser,8,2
+webbie,webbie,Web Browser,6,3
+web visum,webvisum,Web Browser,9,3
+webvisum,webvisum,Web Browser,8,3
+jarte,jarte,Word Processor,5,2
+latex,latex,Word Processor,5,8
+libra,libre office,Word Processor,5,5
+libre office,libre office,Word Processor,12,5
+libreoffice,libre office,Word Processor,11,5
+microsoft office,microsoft office,Word Processor,16,6
+microsoftoffice,microsoft office,Word Processor,15,6
+ms office,microsoft office,Word Processor,9,6
+ms office 2007,microsoft office,Word Processor,14,6
+ms office 365,microsoft office,Word Processor,13,6
+msoffice,microsoft office,Word Processor,8,6
+msoffice2007,microsoft office,Word Processor,12,6
+msoffice365,microsoft office,Word Processor,11,6
+office,microsoft office,Word Processor,6,6
+office 2003,microsoft office,Word Processor,11,6
+office 2007,microsoft office,Word Processor,11,6
+office 2010,microsoft office,Word Processor,11,6
+office 2013,microsoft office,Word Processor,11,6
+office 2016,microsoft office,Word Processor,11,6
+office 365,microsoft office,Word Processor,10,6
+office xp,microsoft office,Word Processor,9,6
+office2003,microsoft office,Word Processor,10,6
+office2007,microsoft office,Word Processor,10,6
+office2010,microsoft office,Word Processor,10,6
+office2013,microsoft office,Word Processor,10,6
+office2016,microsoft office,Word Processor,10,6
+office365,microsoft office,Word Processor,9,6
+officexp,microsoft office,Word Processor,8,6
+microsoft word,microsoft word,Word Processor,14,6
+microsoftword,microsoft word,Word Processor,13,6
+ms word,microsoft word,Word Processor,7,6
+msword,microsoft word,Word Processor,6,6
+word,microsoft word,Word Processor,4,6
+word 2003,microsoft word,Word Processor,9,6
+word 2010,microsoft word,Word Processor,9,6
+word 2013,microsoft word,Word Processor,9,6
+word 2016,microsoft word,Word Processor,9,6
+word 3,microsoft word,Word Processor,6,6
+word 5,microsoft word,Word Processor,6,6
+word xp,microsoft word,Word Processor,7,6
+word2003,microsoft word,Word Processor,8,6
+word2010,microsoft word,Word Processor,8,6
+word2013,microsoft word,Word Processor,8,6
+word2016,microsoft word,Word Processor,8,6
+word3,microsoft word,Word Processor,5,6
+word5,microsoft word,Word Processor,5,6
+wordxp,microsoft word,Word Processor,6,6
+nano,nano,Word Processor,4,7
+notepad,notepad,Word Processor,7,9
+notepad plus plus,notepad plus plus,Word Processor,17,9
+notepadplus,notepad plus plus,Word Processor,11,9
+open office,open office,Word Processor,11,5
+openoffice,open office,Word Processor,10,5
+word pad,wordpad,Word Processor,8,5
+wordpad,wordpad,Word Processor,7,5
