@@ -1,6 +1,8 @@
 # Taming_Accessibility_Forum
 
-The instructions is given for the Jaws Forum
+The instructions is given for the Jaws Forum:
+
+Go to "Final Code for the Classification":
 
 1. First run the Data Pre-processing. It will remove all the quote and author name.
 2. Run the Data Processing for the Classifier, it will generate all the features.
